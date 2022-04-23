@@ -1,7 +1,7 @@
 #include <iostream>
 
-std::string s = "Hello World!";
+std::string str = "Hello World!";
 
 int main() {
-    std::cout << s << std::endl;
+    std::cout << str << std::endl;
 }
