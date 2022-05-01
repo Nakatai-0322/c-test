@@ -3,7 +3,7 @@
 * I licenses this file to you under the Apache License 2.0.
 */
 
-#include <iostream>
+#include <bits/stdc++.h>
 
 std::string str = "Hello World!";
 
